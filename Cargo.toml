@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "normal_crate",
+    "proc_macro_crate",
+]

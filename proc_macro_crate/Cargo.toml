@@ -1,0 +1,8 @@
+[package]
+name = "proc_macro_crate"
+version = "0.1.0"
+authors = ["leo60228 <iakornfeld@gmail.com>"]
+edition = "2018"
+
+[lib]
+proc-macro = true

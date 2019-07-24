@@ -1,0 +1,8 @@
+[package]
+name = "normal_crate"
+version = "0.1.0"
+authors = ["leo60228 <iakornfeld@gmail.com>"]
+edition = "2018"
+
+[dependencies.proc_macro_crate]
+path = "../proc_macro_crate"
